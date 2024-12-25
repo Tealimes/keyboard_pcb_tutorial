@@ -4488,7 +4488,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "random-keyboard-parts:Molex-0548190589"
 			(at 100.33 151.13 0)
 			(effects
 				(font
@@ -4637,7 +4637,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "random-keyboard-parts:SKQG-1155865"
 			(at 105.41 33.02 0)
 			(effects
 				(font
@@ -4929,7 +4929,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
 			(at 186.055 98.425 0)
 			(effects
 				(font
@@ -5065,7 +5065,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
 			(at 202.565 97.155 0)
 			(effects
 				(font
@@ -5133,7 +5133,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
 			(at 186.055 80.645 0)
 			(effects
 				(font
@@ -5398,7 +5398,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm"
 			(at 101.6 45.72 0)
 			(effects
 				(font
@@ -6138,7 +6138,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+		(property "Footprint" "MX_Alps_Hybrid:MX-1U-NoLED"
 			(at 202.565 80.645 0)
 			(effects
 				(font
